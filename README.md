@@ -9,11 +9,15 @@ It is also compatible with the [ColorZilla](http://www.colorzilla.com/firefox/pa
 
 How To
 ======
-##GIMP
-####(Tested on 2.8.2)
+
+## GIMP
+
+(Tested on 2.8.2)
+
 Open the Palettes window with: `Windows > Dockable Dialogs > Palettes`. Once opened, click on `configure this tab` on the top right corner of the new window and select `Palettes Menu > Import Palette...`. Select the option `Palette file` and choose the downloaded file [Material-Design.gpl](https://raw.githubusercontent.com/KiSSFLOW/gimp-material-design-color-palette/master/Material-Design.gpl).
 
-##Inkscape
-####(Tested on 0.48.3.1)
-On Linux (Debian 3.2) copy the file [Material-Design.gpl](https://raw.githubusercontent.com/KiSSFLOW/gimp-material-design-color-palette/master/Material-Design.gpl) into `/usr/share/inkscape/palettes/`, and then (re)launch Inkscape.
+## Inkscape
 
+(Tested on 0.92)
+
+On Linux (Debian 3.2) copy the file [Material-Design.gpl](https://raw.githubusercontent.com/KiSSFLOW/gimp-material-design-color-palette/master/Material-Design.gpl) into `/usr/share/inkscape/palettes/` (for a system-wide installation) or `~/.config/inkscape/palettes/` (for your user account only), and then (re)launch Inkscape.
